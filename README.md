@@ -23,11 +23,11 @@ A candidate who has achieved the Foundation Level certification should be able t
 • Effectively report on test progress and quality
 
 CTFL 4.0 certification is recognized as a prerequisite to all other ISTQB® certifications where Foundation Level is required.
-Skills / Knowledge
-Software Testing
-Agile Software Development
-Agile Testing
-ISSUED ON
-December 5, 2023
-EXPIRES ON
-Does not expire
+Skills / Knowledge:
+Software Testing,
+Agile Software Development,
+Agile Testing.
+ISSUED ON:
+December 5, 2023.
+EXPIRES ON:
+Does not expire.
